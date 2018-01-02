@@ -1,2 +1,2 @@
-# Cracking-The-Coding-Questions
+# Cracking-The-Coding
 Cracking-The-Coding-Questions
