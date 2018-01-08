@@ -2,8 +2,9 @@
 Cracking-The-Coding-Questions
 
 #Coding Questions:
-Chapter 1
- 1.1 - Is Unique
+
+## Chapter 1
+ 1)1.1 - Is Unique
  1.2 - Reverse String
  1.3 - IS Permutation
  1.4 - Replace Space
