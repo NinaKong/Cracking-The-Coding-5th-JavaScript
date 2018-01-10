@@ -18,3 +18,5 @@ Cracking-The-Coding-Questions
  1.6 - Rotate Matrix
  
  1.7 - Zero Matrix
+ 
+ 1.8 - String Rotation
